@@ -1,0 +1,49 @@
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":912,"error_msg":"This is a chat bot feature, change this status in settings","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"305438659"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_1\\\"}\",\"label\":\"\u041a\u043d\u043e\u043f\u043a\u0430 1\"},\"color\":\"positive\"},{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_2\\\"}\",\"label\":\"\u041a\u043d\u043e\u043f\u043a\u0430 2\"},\"color\":\"primary\"},{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_3\\\"}\",\"label\":\"\u041a\u043d\u043e\u043f\u043a\u0430 3\"},\"color\":\"negative\"},{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_4\\\"}\",\"label\":\"\u041a\u043d\u043e\u043f\u043a\u0430 4\"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.131"},{"key":"random_id","value":"-2044864760"}]}}
+[Exception]: код ошибки: 912
+[Exception]: файл: /home/std/vkbot/vkmaster/src/vk_api.php:230
+[Exception]: путь ошибки: #0 /home/std/vkbot/vkmaster/src/vk_api.php(440): DigitalStar\vk_api\vk_api->request()
+#1 /home/std/vkbot/index.php(25): DigitalStar\vk_api\vk_api->sendButton()
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":912,"error_msg":"This is a chat bot feature, change this status in settings","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"305438659"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_1\\\"}\",\"label\":\"\u041a\u043d\u043e\u043f\u043a\u0430 1\"},\"color\":\"positive\"},{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_2\\\"}\",\"label\":\"\u041a\u043d\u043e\u043f\u043a\u0430 2\"},\"color\":\"primary\"},{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_3\\\"}\",\"label\":\"\u041a\u043d\u043e\u043f\u043a\u0430 3\"},\"color\":\"negative\"},{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_4\\\"}\",\"label\":\"\u041a\u043d\u043e\u043f\u043a\u0430 4\"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.131"},{"key":"random_id","value":"200126556"}]}}
+[Exception]: код ошибки: 912
+[Exception]: файл: /home/std/vkbot/vkmaster/src/vk_api.php:230
+[Exception]: путь ошибки: #0 /home/std/vkbot/vkmaster/src/vk_api.php(440): DigitalStar\vk_api\vk_api->request()
+#1 /home/std/vkbot/index.php(25): DigitalStar\vk_api\vk_api->sendButton()
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"305438659"},{"key":"v","value":"5.131"},{"key":"random_id","value":"1656232263"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/std/vkbot/vkmaster/src/vk_api.php:230
+[Exception]: путь ошибки: #0 /home/std/vkbot/vkmaster/src/vk_api.php(401): DigitalStar\vk_api\vk_api->request()
+#1 /home/std/vkbot/index.php(28): DigitalStar\vk_api\vk_api->sendMessage()
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"305438659"},{"key":"v","value":"5.131"},{"key":"random_id","value":"1336123601"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/std/vkbot/vkmaster/src/vk_api.php:230
+[Exception]: путь ошибки: #0 /home/std/vkbot/vkmaster/src/vk_api.php(401): DigitalStar\vk_api\vk_api->request()
+#1 /home/std/vkbot/index.php(28): DigitalStar\vk_api\vk_api->sendMessage()
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"305438659"},{"key":"v","value":"5.131"},{"key":"random_id","value":"1410692025"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/std/vkbot/vkmaster/src/vk_api.php:230
+[Exception]: путь ошибки: #0 /home/std/vkbot/vkmaster/src/vk_api.php(401): DigitalStar\vk_api\vk_api->request()
+#1 /home/std/vkbot/index.php(27): DigitalStar\vk_api\vk_api->sendMessage()
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":912,"error_msg":"This is a chat bot feature, change this status in settings","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"305438659"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_1\\\"}\",\"label\":\"\u041a\u043d\u043e\u043f\u043a\u0430 1\"},\"color\":\"positive\"},{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_2\\\"}\",\"label\":\"\u041a\u043d\u043e\u043f\u043a\u0430 2\"},\"color\":\"primary\"},{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_3\\\"}\",\"label\":\"\u041a\u043d\u043e\u043f\u043a\u0430 3\"},\"color\":\"negative\"},{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_4\\\"}\",\"label\":\"\u041a\u043d\u043e\u043f\u043a\u0430 4\"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.131"},{"key":"random_id","value":"-390322314"}]}}
+[Exception]: код ошибки: 912
+[Exception]: файл: /home/std/vkbot/vkmaster/src/vk_api.php:230
+[Exception]: путь ошибки: #0 /home/std/vkbot/vkmaster/src/vk_api.php(440): DigitalStar\vk_api\vk_api->request()
+#1 /home/std/vkbot/index.php(28): DigitalStar\vk_api\vk_api->sendButton()
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":912,"error_msg":"This is a chat bot feature, change this status in settings","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"305438659"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_1\\\"}\",\"label\":\"\u041a\u043d\u043e\u043f\u043a\u0430 1\"},\"color\":\"positive\"},{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_2\\\"}\",\"label\":\"\u041a\u043d\u043e\u043f\u043a\u0430 2\"},\"color\":\"primary\"},{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_3\\\"}\",\"label\":\"\u041a\u043d\u043e\u043f\u043a\u0430 3\"},\"color\":\"negative\"},{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_4\\\"}\",\"label\":\"\u041a\u043d\u043e\u043f\u043a\u0430 4\"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.131"},{"key":"random_id","value":"-465021191"}]}}
+[Exception]: код ошибки: 912
+[Exception]: файл: /home/std/vkbot/vkmaster/src/vk_api.php:230
+[Exception]: путь ошибки: #0 /home/std/vkbot/vkmaster/src/vk_api.php(440): DigitalStar\vk_api\vk_api->request()
+#1 /home/std/vkbot/index.php(27): DigitalStar\vk_api\vk_api->sendButton()
+#2 {main}
