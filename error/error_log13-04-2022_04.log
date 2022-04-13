@@ -1,0 +1,32 @@
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][1] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"305438659"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"Check_btn1_KIS_1Checked_btn2_IB_1\\\"}\",\"label\":\"2\"},\"color\":\"negative\"},{\"action\":{\"type\":null}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"Check_btn1_KIS_1Check_btn2_IB_1Check_btn3_KIS_1\\\"}\",\"label\":\"3\"},\"color\":\"positive\"},{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"Check_btn1_KIS_1Check_btn2_IB_1Check_btn4_KIS_1\\\"}\",\"label\":\"4\"},\"color\":\"positive\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"CheckBoxSend_\\\"}\",\"label\":\"\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c\"},\"color\":\"primary\"}]],\"inline\":false}"},{"key":"v","value":"5.131"},{"key":"random_id","value":"-1336165345"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /home/std/vkbot/vkmaster/src/vk_api.php:230
+[Exception]: путь ошибки: #0 /home/std/vkbot/vkmaster/src/vk_api.php(440): DigitalStar\vk_api\vk_api->request()
+#1 /home/std/vkbot/QuestionsController.php(113): DigitalStar\vk_api\vk_api->sendButton()
+#2 /home/std/vkbot/index.php(14): include_once('...')
+#3 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][1] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"305438659"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"Checked_btn2_IB_1\\\"}\",\"label\":\"2\"},\"color\":\"negative\"},{\"action\":{\"type\":null}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"Check_btn2_IB_1Check_btn3_KIS_1\\\"}\",\"label\":\"3\"},\"color\":\"positive\"},{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"Check_btn2_IB_1Check_btn4_KIS_1\\\"}\",\"label\":\"4\"},\"color\":\"positive\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"CheckBoxSend_\\\"}\",\"label\":\"\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c\"},\"color\":\"primary\"}]],\"inline\":false}"},{"key":"v","value":"5.131"},{"key":"random_id","value":"1259793706"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /home/std/vkbot/vkmaster/src/vk_api.php:230
+[Exception]: путь ошибки: #0 /home/std/vkbot/vkmaster/src/vk_api.php(440): DigitalStar\vk_api\vk_api->request()
+#1 /home/std/vkbot/QuestionsController.php(113): DigitalStar\vk_api\vk_api->sendButton()
+#2 /home/std/vkbot/index.php(14): include_once('...')
+#3 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][1] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"305438659"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"Checked_btn2_IB_1\\\"}\",\"label\":\"2\"},\"color\":\"negative\"},{\"action\":{\"type\":null}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"Check_btn2_IB_1Check_btn3_KIS_1\\\"}\",\"label\":\"3\"},\"color\":\"positive\"},{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"Check_btn2_IB_1Check_btn4_KIS_1\\\"}\",\"label\":\"4\"},\"color\":\"positive\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"CheckBoxSend_\\\"}\",\"label\":\"\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c\"},\"color\":\"primary\"}]],\"inline\":false}"},{"key":"v","value":"5.131"},{"key":"random_id","value":"1194924069"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /home/std/vkbot/vkmaster/src/vk_api.php:230
+[Exception]: путь ошибки: #0 /home/std/vkbot/vkmaster/src/vk_api.php(440): DigitalStar\vk_api\vk_api->request()
+#1 /home/std/vkbot/QuestionsController.php(113): DigitalStar\vk_api\vk_api->sendButton()
+#2 /home/std/vkbot/index.php(14): include_once('...')
+#3 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][1] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"305438659"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"Check_btn4_KIS_1Check_btn3_KIS_1Checked_btn2_IB_1\\\"}\",\"label\":\"2\"},\"color\":\"negative\"},{\"action\":{\"type\":null}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"Check_btn4_KIS_1Check_btn3_KIS_1Check_btn2_IB_1\\\"}\",\"label\":\"3\"},\"color\":\"negative\"},{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"Check_btn4_KIS_1Check_btn3_KIS_1Check_btn2_IB_1\\\"}\",\"label\":\"4\"},\"color\":\"negative\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"CheckBoxSend_\\\"}\",\"label\":\"\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c\"},\"color\":\"primary\"}]],\"inline\":false}"},{"key":"v","value":"5.131"},{"key":"random_id","value":"1138022327"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /home/std/vkbot/vkmaster/src/vk_api.php:230
+[Exception]: путь ошибки: #0 /home/std/vkbot/vkmaster/src/vk_api.php(440): DigitalStar\vk_api\vk_api->request()
+#1 /home/std/vkbot/QuestionsController.php(113): DigitalStar\vk_api\vk_api->sendButton()
+#2 /home/std/vkbot/index.php(14): include_once('...')
+#3 {main}
